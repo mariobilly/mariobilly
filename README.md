@@ -1,7 +1,7 @@
 ## Hi, I'm Mario
 
 I build creative tools: AI video and image pipelines, real-time visuals, ComfyUI nodes and Claude Code workflows.
-Everything here runs on your own computer: no account, no API key, nothing uploaded.
+Everything here runs on your own computer. Where a tool can use a paid service, it uses your own key, never mine.
 More of my work: [marioschebly.com](https://marioschebly.com/)
 
 ### Tools
@@ -13,6 +13,7 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**Stick Figure Studio**](https://github.com/mariobilly/stick-figure-studio) | A 2D animation studio in the browser that Claude Code can direct over MCP |
 | [**Whisper Push-to-Talk**](https://github.com/mariobilly/whisper-push-to-talk) | Hold a key, speak, let go: local Whisper dictation for Windows |
 | [**RunningHub Finder**](https://github.com/mariobilly/runninghub-finder) | Finds the best proven RunningHub / ComfyUI workflow for any task and gives you its API call. A Claude Code skill |
+| [**PromptForge**](https://github.com/mariobilly/prompt-forge) | Prompts for any AI image, video or audio model, written from its docs and reviewed by Claude (your own key) |
 
 ### Video and photo effects
 
@@ -48,3 +49,4 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**TouchLab**](https://github.com/mariobilly/touchlab) | Realtime visuals you play with your hands, recorded to MP4 |
 | [**Motion Lab**](https://github.com/mariobilly/motion-lab) | Layered, animated visual art from your photos, videos and music, with audio-reactive animation |
 | [**VOLTAGE**](https://github.com/mariobilly/voltage) | A live visual instrument for the browser: two decks, sound-reactive, with a projector window |
+| [**Head Grid 3D**](https://github.com/mariobilly/head-grid-3d) | Every face in a photo becomes a 3D head that turns to watch your logo |
