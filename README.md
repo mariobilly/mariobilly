@@ -45,3 +45,4 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**Torn Photo Studio**](https://github.com/mariobilly/torn-photo-studio) | Turn your photos into torn-paper cutouts, then animate and export them |
 | [**CardFlow**](https://github.com/mariobilly/cardflow) | Your images on 3D cards, flowing from one formation to the next |
 | [**TouchLab**](https://github.com/mariobilly/touchlab) | Realtime visuals you play with your hands, recorded to MP4 |
+| [**Motion Lab**](https://github.com/mariobilly/motion-lab) | Layered, animated visual art from your photos, videos and music, with audio-reactive animation |
