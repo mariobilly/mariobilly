@@ -30,6 +30,7 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**Declassified**](https://github.com/mariobilly/declassified) | Turns a photo or video into redacted secret-document pages |
 | [**Mesh Drift**](https://github.com/mariobilly/mesh-drift) | Animated mesh gradients with seamless video loops |
 | [**CUTOUT**](https://github.com/mariobilly/cutout) | Mixed-media cut-outs for your own videos and photos, with alpha export |
+| [**Pixel Drip**](https://github.com/mariobilly/pixel-drip) | A melting pixel-sort glitch for photos and videos, with motion loops |
 
 ### Collage, 3D and motion
 
@@ -46,3 +47,4 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**CardFlow**](https://github.com/mariobilly/cardflow) | Your images on 3D cards, flowing from one formation to the next |
 | [**TouchLab**](https://github.com/mariobilly/touchlab) | Realtime visuals you play with your hands, recorded to MP4 |
 | [**Motion Lab**](https://github.com/mariobilly/motion-lab) | Layered, animated visual art from your photos, videos and music, with audio-reactive animation |
+| [**VOLTAGE**](https://github.com/mariobilly/voltage) | A live visual instrument for the browser: two decks, sound-reactive, with a projector window |
