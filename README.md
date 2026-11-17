@@ -29,6 +29,7 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**Grid Melt**](https://github.com/mariobilly/grid-melt) | A live glitch grid for photos and videos, with flower frames |
 | [**Declassified**](https://github.com/mariobilly/declassified) | Turns a photo or video into redacted secret-document pages |
 | [**Mesh Drift**](https://github.com/mariobilly/mesh-drift) | Animated mesh gradients with seamless video loops |
+| [**CUTOUT**](https://github.com/mariobilly/cutout) | Mixed-media cut-outs for your own videos and photos, with alpha export |
 
 ### Collage, 3D and motion
 
@@ -41,3 +42,6 @@ More of my work: [marioschebly.com](https://marioschebly.com/)
 | [**Depth Echo**](https://github.com/mariobilly/depth-echo) | A video as stacked 3D depth sheets with echoes and an orbiting camera |
 | [**Splat Garden**](https://github.com/mariobilly/splat-garden) | Plant photos and clips as floating 3D splats |
 | [**Knit Type**](https://github.com/mariobilly/knit-type) | Type, and your words knit themselves into fabric, stitch by stitch |
+| [**Torn Photo Studio**](https://github.com/mariobilly/torn-photo-studio) | Turn your photos into torn-paper cutouts, then animate and export them |
+| [**CardFlow**](https://github.com/mariobilly/cardflow) | Your images on 3D cards, flowing from one formation to the next |
+| [**TouchLab**](https://github.com/mariobilly/touchlab) | Realtime visuals you play with your hands, recorded to MP4 |
